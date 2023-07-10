@@ -31,6 +31,8 @@ e os dois vértices, e retorna verdadeiro ou falso. Faça uma versão iterativa 
 •Função popularity que, dado um ponteiro para Graph, o número de vértices e um vértice específico, retorna a soma dos 
 pesos das arestas que chegam a esse vértice. Essa soma pode ser interpretada como sendo um índice de popularidade.
 
+•Função freeGraph, que libera a memória do graph e dos nodes.
+
 Passo 3)
 Adicione na main o seguinte vetor de arestas:
 
